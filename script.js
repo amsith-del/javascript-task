@@ -26,6 +26,7 @@
 
 
 
+
 // Sum of two numbers
 
 // let num1 = Number(prompt("Enter first number"));
@@ -98,7 +99,7 @@
 
 // Print Even Numbers using for loop
 
-// for (let i = 2; i <= 20; i += 2) {
+// for (let i = 2; i <= 20; i =i+ 2) {
 //     console.log(i);
 // }
 
@@ -122,6 +123,16 @@
 // }
 
 //   Function Tasks
+
+// Task1
+
+// let num=["10","20","30","40","50"]
+
+// for(i=0;i<= num.length;i++){
+//     console.log(num[i])
+// }
+// let input = Number(prompt("Enter number between 0 to 4"))
+// console.log("Your  number is :"+ num[input] )
 
 // Function to find square of a number
 
