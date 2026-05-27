@@ -120,3 +120,62 @@
 //     console.log(num);
 //     num--;
 // }
+
+//   Function Tasks
+
+// Function to find square of a number
+
+// function square(num){
+//     return num * num
+// }
+// console.log(square(5))
+
+//  Funtion to find cube of a number
+
+// function cube(num){
+//     return num*num*num
+// }
+// console.log(cube(3))
+
+// The square and cube  function declartion
+
+// function square (num){
+//     return num*num
+// }
+// console.log(square(4))
+
+// function cube(num){
+//     return num*num*num
+// }
+// console.log(cube(6))
+
+// The square and cube  function expression
+ 
+// let square = function(num){
+//     return num*num
+// }
+// console.log(square(4))
+
+// let cube=function(num){
+//     return num*num*num
+// }
+// console.log(cube(3))
+
+// The square and cube arrow functions
+
+// let square = (num) => num*num
+// console.log(square(4))
+
+// let cube=(num) =>num*num*num
+// console.log(cube(6))
+
+// array with names and greet each name using a function
+
+// let name=["name1","name2","name3","name4","name5"]
+
+// function person(name){
+//     console.log("Hello My name is "+name)
+// }
+// for (i=0;i<name.length;i++){
+//     person(name[i])
+// }
