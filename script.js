@@ -190,3 +190,65 @@
 // for (i=0;i<name.length;i++){
 //     person(name[i])
 // }
+
+
+// Use Switch to print day name based on number
+
+
+// let number=Number(prompt("Enter number between 1to7"))
+
+// switch(number){
+//     case 1:
+//         console.log("Monday")
+//         break;
+//     case 2:
+//         console.log("Tuesday");
+//         break;
+//     case 3:
+//         console.log("Wednesday");
+//         break;
+//     case 4:
+//         console.log("Thursday");
+//         break;
+//     case 5:
+//         console.log("Friday");
+//         break;
+//     case 6:
+//         console.log("Saturday");
+//         break;
+//     case 7:
+//         console.log("Sunday");
+//         break;  
+
+//      default:
+//         console.log("Invalid day!");
+// }
+
+
+// Need create your own function and switch case
+
+// function check(){
+
+//     let text = prompt("Enter yes or no")
+
+//     switch (text){
+//         case "yes":
+//             console.log("Your are correct");
+//             break;
+//         case "no":
+//             console.log("You are wrong");
+//             break;
+//         default:
+//             console.log("Default behaviour");
+                
+            
+//     }
+     
+// }
+// check()
+
+
+
+// Object Tasks
+
+
