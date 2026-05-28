@@ -193,3 +193,21 @@
     
 // }
 // profiles()
+
+
+// Task-9 try use this method
+   
+
+// let movie = {
+//     title: "KGF",
+//     year: 2026,       
+
+//     movies: function(){   
+//         console.log("Best movie I like", this.title);
+//     }
+// };                    
+
+// let newmovie = {...movie}
+// newmovie.title = "KGF2";
+// movie.movies();    
+// newmovie.movies(); 
