@@ -22,12 +22,15 @@
 // let student={
 //     name:"Amsith",
 //     age:22,
+    
 //     address:{
-//         state:"TN"
+//         state:"Tn",
+//          Native:null,
 //     }
 // }
-// console.log(student.address?.state);
-// console.log(student.Native?.Kumari);
+// console.log(student.mark??"No mark ");
+// console.log(student.address.state??"No state");
+// console.log(student.address.Native??"Kumari");
 
 
 // Task3-Looop through object and print all keys & values

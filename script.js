@@ -14,6 +14,8 @@
 
 
 
+
+
 // Password check using while
 
 // let password = "";
@@ -90,18 +92,6 @@
 // console.log(displayName);
 
 
-// Print Numbers from 1 to 10
-// using for loop
-
-// for (let i = 1; i <= 10; i=i+1) {
-//     console.log(i);
-// }
-
-// Print Even Numbers using for loop
-
-// for (let i = 2; i <= 20; i =i+ 2) {
-//     console.log(i);
-// }
 
 
 // // Print Even Numbers using while loop
@@ -249,6 +239,6 @@
 
 
 
-// Object Tasks
+
 
 
